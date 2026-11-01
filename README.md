@@ -47,3 +47,4 @@ Hệ thống thực hiện dự đoán mức độ yêu thích phim bằng SVD v
 - Tên đề tài: Movie Recommendation System
 - Học phần: CMP169 – Trí tuệ nhân tạo
 - Trường: HUTECH
+-Thành viên: Võ Hoàng Đăng Khoa, Châu Trung Hậu, Nhị Anh Hào
